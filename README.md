@@ -1,13 +1,8 @@
 <h1 align="center"> Hi I am Shobuj </h1>  
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
-  </a>
-</h1>
-   
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+### <img src="/images/Developer.gif" alt="developer gif"  height="45px"> About Me:
+
 <p align="center">
   Hi, I'm Md Shobuj, a Full Stack Web Developer from Bangladesh
   <br>
