@@ -25,7 +25,8 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) 
 
 </div>
-### <img src="/images/Developer.gif" alt="developer gif"  height="45px"> About Me:
+
+<img src="/images/Developer.gif" alt="developer gif"  height="45px"> About Me:
 
 <p align="center">
   Hi, I'm Md Shobuj, a Full Stack Web Developer from Bangladesh
